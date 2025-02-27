@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talharauf15" alt="talharauf15" /></a> </p>
 
-- 🔭 I’m currently working on [StoryVerse(FYP)](https://github.com/Amash7/StoryVerse-FYP)
+- 🔭 I’m currently working on [StoryVerse(FYP)]()
 
 - 🌱 I’m currently learning **Google Advanced Data Analytics**
 
